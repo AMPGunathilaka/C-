@@ -1,0 +1,11 @@
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe.config
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.pdb
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.AssemblyReference.cache
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.SuggestedBindingRedirects.cache
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Properties.Resources.resources
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.cache
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.CoreCompileInputs.cache
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+E:\BIT UOM\SEM O1\assigment\visual application programming\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
